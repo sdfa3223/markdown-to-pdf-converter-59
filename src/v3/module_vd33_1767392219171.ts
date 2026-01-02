@@ -1,0 +1,1 @@
+const util_vd33 = (d: any) => d;
